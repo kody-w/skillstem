@@ -1,5 +1,9 @@
 # skillstem
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/skillstem.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/skillstem.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 A brainstem-compatible agent harness on the **GitHub Copilot SDK** whose only
 extension point is **`SKILL.md`**. Drop an [Agent Skills](https://agentskills.io)
 directory into `skills/`, and it is live on the next request. No agent modules,
